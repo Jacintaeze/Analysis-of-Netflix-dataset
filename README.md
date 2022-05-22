@@ -1,7 +1,7 @@
-# Dataset.netflix
-Exploratory Data Analysis.
+# Project 1 EDA Netflix Dataset
+Exploratory Data Analysis (EDA) is an approach to analyze data. The first task is to try and make some sense of the data,that is understanding the data. Then figure out questions to answer using the data.
 
-This is a Netflix dataset,it contains details of the contents on Netflix from 1925 to 2020
+This Netflix dataset contains details of the contents on Netflix from 1925 to 2020
 
 The dataset has been analysed to get top insight from it such as;
 
